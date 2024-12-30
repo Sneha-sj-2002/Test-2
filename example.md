@@ -6,7 +6,7 @@ This is an example of a Markdown file. You can use Markdown to format your text 
 
 - **Bold text**: `**bold**` or `__bold__`
 - *Italic text*: `*italic*` or `_italic_`
-- [Links](https://www.example.com): `[text](https://www.example.com)`
+
 
 ## Code
 
