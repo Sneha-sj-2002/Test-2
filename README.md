@@ -1,6 +1,6 @@
 ## Hello world!!
 
-Introduction
+Introduction!!
 
 This is a simple "Hello, World!" project to demonstrate the basic structure and setup of a programming project. It serves as a beginner-friendly example for understanding fundamental coding concepts, syntax, and project organization.
 
@@ -12,4 +12,4 @@ Before running this project, ensure you have the following installed:
 
 A code editor (e.g., VS Code, IntelliJ IDEA)
 
-Basic understanding of the programming language used
+Basic understanding of the programming language used.
