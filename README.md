@@ -13,3 +13,7 @@ Before running this project, ensure you have the following installed:
 A code editor (e.g., VS Code, IntelliJ IDEA)
 
 Basic understanding of the programming language used.
+
+
+It's My First Program
+Print("Hello World")
