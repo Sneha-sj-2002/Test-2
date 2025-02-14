@@ -1,6 +1,6 @@
 ## Hello world!!!
 
-Introduction!!
+Introductions!!
 
 This is a simple "Hello, World!" project to demonstrate the basic structure and setup of a programming project. It serves as a beginner-friendly example for understanding fundamental coding concepts, syntax, and project organization.
 
